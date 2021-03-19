@@ -1,0 +1,26 @@
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\tasne\source\repos\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\tasne\source\repos\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
